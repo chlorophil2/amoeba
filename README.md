@@ -6,9 +6,16 @@ The magnitude of the situation will require cooperation and expertise across cul
 
 Let this be the beginning of a new reality.
 
-This document will be organized in three sections 
+This document will be organized in four sections 
 * A: The earth's plight
 * B: Vision
 * C: What to do
+* D: Resources
+
+
+## resources
+
+amoeba subreddit 
+
   
   
