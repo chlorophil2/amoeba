@@ -12,6 +12,15 @@ This document will be organized in four sections
 * C: What to do
 * D: Resources
 
+## the earth's plight
+
+- A: Deep Time
+
+
+## vision
+
+## what to do
+
 
 ## resources
 
