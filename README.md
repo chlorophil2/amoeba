@@ -35,7 +35,7 @@ One of the first steps to take is to connect with those around you who are passi
 
 
 
-<amoeba subreddit> 
+->amoeba subreddit 
 
   
   
