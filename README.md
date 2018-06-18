@@ -10,21 +10,32 @@ This document will be organized in four sections
 * A: The earth's plight
 * B: Vision
 * C: What to do
-* D: Resources
+* D: Resources, discussion groups
 
 ## the earth's plight
 
 - A: Deep Time
-
+- B: Human Cognitive Biases
+- C: Population growth
+- D: Peak Resources
+- E: Loss of top soil, freshwater.
+- F: Mass Extinction
+- G: Pollution, (y health)
+- H: Climate Chanage, Ocean Acidification
+- I: Renewable and repeatable resources
 
 ## vision
 
 ## what to do
-
+The ways and amount in which one can combat the self-destructive tendencies of the human super organism will be varied depending on their own personal skillsets and life circumstances.  This section consists of ideas and projects that fellow eco-concious Homo sapiens are attempting or brainstorming.  Add to the list!
 
 ## resources
 
-amoeba subreddit 
+One of the first steps to take is to connect with those around you who are passionate about making a sustainable future a reality.  The amoeba organization is a loose collection of individuals interested and engadged in these topics.  Start or join a discussion group in your community.  
+
+
+
+<amoeba subreddit> 
 
   
   
