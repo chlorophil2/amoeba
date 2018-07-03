@@ -41,9 +41,9 @@ One of the first steps to take is to connect with those around you who are passi
 ->amoeba subreddit
 
 ## references
-[^fn1]: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999JB900257
-[^fn2]: https://www.scientificamerican.com/article/fossil-reanalysis-pushes/
-[^fn3]: https://www.nature.com/articles/nature14258/tables/1
+[^1]: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999JB900257
+[^2]: https://www.scientificamerican.com/article/fossil-reanalysis-pushes/
+[^3]: https://www.nature.com/articles/nature14258/tables/1
 
 
 
