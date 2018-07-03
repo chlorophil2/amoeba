@@ -22,6 +22,13 @@ This document will be organized in four sections
   
 - B: Human Cognitive Biases
 - C: Population growth
+
+  
+At the time of this being written(July of 2018) the Earth’s population is at roughly 7.3 billion people.[^4] For the time-span in which humans have existed on Earth(see Deep Time) we have survived in small, contained numbers; for most of human history, such a number as 7.3 billion would have been unthinkable. It wasn’t until the early 1800s when the planet first saw one billion humans, with two billion people occuring a mere 120 years later in 1920[^4]. It has only been in very recent human history that our species has been capable of growing to the colossal number which we know today. 
+There is a common population growth theory, proposed by Thomas Malthus in his 1798 writings, which states: exponential human population growth is inevitable, but will eventually be regulated through natural processes, such as disease, space, and food/water shortages; in essence, rapid growth in a species will always result in natural regulators. This idea, though proposed over 200 years ago, has been somewhat swept to the wayside primarily due to the boom of agricultural revolutions that have given humans a flawed and idealistic view of the Earth’s capability to house our numbers. Our means of energy use(especially in regards to agriculture) are unnatural and unsustainable. 
+Human-kinds’ manipulation of Earth’s natural systems has caused our species to undermine the natural corrective measures put forth by Mother Nature, leaving our species’ population to rapidly grow unchecked; however, Earth is a system that will always correct itself due to the finite energy that is contained within all systems. Eventually, our Earth will run out of the energy(the quick, cheap, accessible, and non-renewable kind) that has allowed our population to unreasonably boom for the last few centuries. 
+Ultimately, the current state of the human population can be summed up in one question: When humans’ numbers start inevitably declining, do we want it to be a result of our own controlled choice, or from the Earth choosing for us? 
+
 - D: Peak Resources
 - E: Loss of top soil, freshwater.
 - F: Mass Extinction
@@ -44,7 +51,7 @@ One of the first steps to take is to connect with those around you who are passi
 [^1]: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999JB900257
 [^2]: https://www.scientificamerican.com/article/fossil-reanalysis-pushes/
 [^3]: https://www.nature.com/articles/nature14258/tables/1
-
+[^4]: http://www.bbc.com/earth/story/20160311-how-many-people-can-our-planet-really-support
 
 
   
