@@ -18,6 +18,8 @@ This document will be organized in four sections
 - B: Human Cognitive Biases
 - C: Population growth
 - D: Peak Resources
+
+  Oil, coal, phosophorous, even herring, all resources "peak".  Oil was the first and is the most common resource to be analyized in this way.  When resource extraction rates are plotted against time, a curve resembling a Gaussian Curve, 
 - E: Loss of top soil, freshwater.
 - F: Mass Extinction
 - G: Pollution, (y health)
