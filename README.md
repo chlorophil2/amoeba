@@ -15,6 +15,11 @@ This document will be organized in four sections
 ## the earth's plight
 
 - A: Deep Time
+
+  The earth is ~ 4.5 billion years old.[^1]  In that 4.5 billion of years there has been a dizzying array of different climates, ecosystems and life.  Human existance is a realitively short blip on the timespan of the earth, the first Homo sapiens appears in the fossil record about 200,000 years ago.[^2] Despite our seeming insignificance, we have managed to leave a permenenet mark on the geological record.  We are now living in the anthropocene.  Start dates for the anthropocene range are disputed ranging from megafaunal extinction to the trinity test[^3], but during this time we have markedly changed the composition of the atmosphere and our oceans, depleted signifcant amounts of top soil, and significantly altered hydrological and nutrient cycles.
+  
+  [Visualize Deep Time!](http://deeptime.info)
+  
 - B: Human Cognitive Biases
 - C: Population growth
 - D: Peak Resources
@@ -33,9 +38,14 @@ The ways and amount in which one can combat the self-destructive tendencies of t
 
 One of the first steps to take is to connect with those around you who are passionate about making a sustainable future a reality.  The amoeba organization is a loose collection of individuals interested and engadged in these topics.  Start or join a discussion group in your community.  
 
+->amoeba subreddit
 
 
-->amoeba subreddit 
+[^1]: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999JB900257
+[^2]: https://www.scientificamerican.com/article/fossil-reanalysis-pushes/
+[^3]: https://www.nature.com/articles/nature14258/tables/1
+
+
 
   
   
