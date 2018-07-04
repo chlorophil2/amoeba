@@ -21,6 +21,7 @@ This document will be organized in four sections
 
   Oil, coal, phosphorous, even herring, all exhaustible/finite resources "peak".  Oil was the first and is the most common resource to be analyzed in this way.  When resource extraction rates are plotted against time, a curve resembling a Gaussian results.  The area under the curve is representative resources reserves.
   ![Peak Oil Graph](http://www.oilcrash.com/images/ten_stps/steps_01.png)
+  
 The curve above (taken from oilcrash.com), shows an idealized Hubbert curve.  In the first phase, production increases rapidly, and then as the easily assessable parts of the resource declines, production levels off.  After "peaking" production still occurs but at exponentially smaller rates.  A range of factors influence the shape of actual curves, including technology, political instability, demand, economic trends, and government policy.
 
 Mineral resources can be graphed the same as fuel minerals, but is more accurately graphed using exergy replacement cost, vs. mass due to non-fuel mineral quality degrading over time ([See Thanatia Chapter 13](https://www.worldscientific.com/worldscibooks/10.1142/7323)). 
