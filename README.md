@@ -16,7 +16,7 @@ This document will be organized in four sections
 
 - A: Deep Time
 
-  The earth is ~ 4.5 billion years old.[^1]  In that 4.5 billion of years there has been a dizzying array of different climates, ecosystems and life.  Human existance is a realitively short blip on geologic timescales: the first Homo sapiens only appears in the fossil record about 200,000 years ago.[^2] Despite our seeming insignificance, we have managed to leave a permenenet mark on the geological record.  We are now living in the anthropocene.  Start dates for the anthropocene range range from the megafaunal extinction to the trinity test[^3], but during this time we have markedly changed the composition of the atmosphere and our oceans, depleted signifcant amounts of top soil, and significantly altered hydrological and nutrient cycles.
+  The earth is ~ 4.5 billion years old.[^1] In that 4.5 billion of years there has been a dizzying array of different climates, ecosystems and life. Human existence is a relatively short blip on geologic timescales: the first Homo sapiens only appears in the fossil record about 200,000 years ago.[^2] Despite our seeming insignificance, we have managed to leave a permanent mark on the geological record. We are now living in the anthropocene. Start dates for the anthropocene range from the megafaunal extinction to the trinity test[^3], but during this time we have markedly changed the composition of the atmosphere and our oceans, depleted signifcant amounts of top soil, and significantly altered hydrological and nutrient cycles.
   
   [Visualize Deep Time!](http://deeptime.info)
   
