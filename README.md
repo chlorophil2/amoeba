@@ -36,7 +36,7 @@ This document will be organized in four sections
 - E: Loss of top soil, freshwater.
 - F: Mass Extinction
 - G: Pollution, (y health)
-- H: Climate Chanage, Ocean Acidification
+- H: Climate Change, Ocean Acidification
 - I: Renewable and repeatable resources
 
 ## vision
