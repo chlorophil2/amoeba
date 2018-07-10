@@ -39,7 +39,7 @@ This document will be organized in four sections
   
 The curve above (taken from oilcrash.com), shows an idealized Hubbert curve.  In the first phase, production increases rapidly, and then as the easily assessable parts of the resource declines, production levels off.  After "peaking", production still occurs but at exponentially smaller rates.  A range of factors influence the shape of actual curves, including technology, political instability, demand, economic trends, and government policy.  The Hubbert Curve is apparent at multiple scales: individual wells, countries/regions, and globally.  
 
-Mineral resources can be graphed the same as fuel minerals, but is more accurately graphed using exergy replacement cost, vs. mass due to non-fuel mineral quality degrading over time ([See Thanatia Chapter 13](https://www.worldscientific.com/worldscibooks/10.1142/7323)). 
+Mineral resources can be graphed the same as fuel minerals, but are more accurately graphed using exergy replacement cost (vs. mass) due to non-fuel mineral quality degrading over time ([See Thanatia Chapter 13](https://www.worldscientific.com/worldscibooks/10.1142/7323)). 
 
 Biological resources that are being used faster than their replacement rate can also be modeled with Hubbert curves[^d1].  Sadly, many of our biological resources are being exploited faster than their replacement rate.  These will be discussed more specifically in later sections.
 
